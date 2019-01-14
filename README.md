@@ -16,3 +16,7 @@ git config --global user.name "Jhon Doe"
 git config --global user.email js.sanch3z@gmail.com
 git config --global core.editor subl
 git config --list
+
+
+
+Esta Linea fue creada en la rama master.
