@@ -3,3 +3,6 @@ Este comando utiliza el area de preparacion para la confirmacion. Al final termi
 
 
 si no hemos hecho cambios desde la ultima confirmacion entonces la instantanea lucira exactamente igual y lo unico que cambiaremos sera el mensaje del commit.
+
+### git commit -a -m "mensaje del commit"
+Con este comando podemos saltar el area de preparacion.
