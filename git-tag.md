@@ -1,8 +1,11 @@
-### git tag nombre_etiqueta
+# git tag
+Lista las etiquetas existentes
+
+## git tag nombre_etiqueta
 Lista las etiquetas en orden alfabetico
 
 
-### git tag -a nombre_etiqueta -m "mensaje de la etiqueta"
+## git tag -a nombre_etiqueta -m "mensaje de la etiqueta"
 Etiqueta anotada. Se guarda en la base de datos de Git como un objeto entero. Tiene un checksum; contiene el nombre del etiqeutados, correo electronico y fecha; y tienen un mensaje asociado
 
 ```

@@ -1,4 +1,4 @@
-### git log
+# git log
 Muestra el historial de commits del proyecto
 
 `git log --pretty=format:"%h - %an, %ar : %s`
@@ -6,7 +6,7 @@ Muestra el historial de commits del proyecto
 Muestra el historial con el formato que indicamos
 
 
-### Limitar la salida del historial
+## Limitar la salida del historial
 
 `git log -n` : cambiamos la n por cualquier numero entero, por ejemplo: `git log -2` nos mostrara los 2 commits mas recientes.
 
