@@ -22,3 +22,6 @@ git config --list
 
 ## Aporte desde otra cuenta
 Este textofue aportado desde la cuenta ic.jsanchez
+
+## Varios Repositorios remotos
+Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
